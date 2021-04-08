@@ -1,2 +1,2 @@
 ## Javascript Projects - Budget Project
-# live demo:
+# live demo: https://durgeshn10.github.io/budget-calculator/
